@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/AmitDeka/Four-card-feature-section-Frontend-Mentor)
+- Live Site URL: [Click Here](https://amitdeka.github.io/Four-card-feature-section-Frontend-Mentor)
 
 ## My process
 
